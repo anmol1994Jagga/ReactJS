@@ -1,3 +1,18 @@
+
+### User is by default redirected to home page
+It contains three links 
+![alt text](image.png)
+### Each link contains answer to the following questions
+
+## Link 1 --> Wellbeing Checkin
+![alt text](image-1.png) 
+## Link 2 --> Date TIme Picker
+![alt text](image-2.png) 
+## Link 3 --> Architecture Proposal
+Downloads the architecture proposal link  
+## Refer the IntellectIssues md file for errors
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -5,6 +20,9 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 ## Available Scripts
 
 In the project directory, you can run:
+
+### `npm install`
+To install all the required dependencies in node_modules
 
 ### `npm start`
 
@@ -23,13 +41,3 @@ See the section about [running tests](https://facebook.github.io/create-react-ap
 Launches the test runner in the interactive.
 And test covergae is seen.
 
-### User is by default redirected to home page
-It contains three links 
-![alt text](image.png)
-### Each link contains answer to the following questions
-## Link 1 --> Wellbeing Checkin
-![alt text](image-1.png) 
-## Link 2 --> Date TIme Picker
-![alt text](image-2.png) 
-## Link 3 --> Architecture Proposal
-Downloads the architecture proposal link  
