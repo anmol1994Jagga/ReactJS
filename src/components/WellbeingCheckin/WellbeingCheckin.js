@@ -1,9 +1,9 @@
 import React, { useState } from 'react';
-import Terrible from './images/Terrible.PNG';
-import Bad from './images/Bad.PNG';
-import Alright from './images/Alright.PNG';
-import PrettyGood from './images/PrettyGood.PNG';
-import Fantastic from './images/Fantastic.PNG';
+import Terrible from '../../images/Terrible.PNG';
+import Bad from '../../images/Bad.PNG';
+import Alright from '../../images/Alright.PNG';
+import PrettyGood from '../../images/PrettyGood.PNG';
+import Fantastic from '../../images/Fantastic.PNG';
 
 const emojis = [
   { component: Terrible, label: 'Terrible' },

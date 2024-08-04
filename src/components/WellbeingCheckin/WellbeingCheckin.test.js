@@ -3,9 +3,9 @@
 import React from 'react';
 import { render, screen, fireEvent } from '@testing-library/react';
 import WellbeingCheckin from './WellbeingCheckin';
-import Terrible from './images/Terrible.PNG';
+import Terrible from '../../images/Terrible.PNG';
 // Mock the images
-jest.mock('./images/Terrible.PNG', () => 'Terrible');
+jest.mock('../../images/Terrible.PNG', () => 'Terrible');
 
 describe('WellbeingCheckin Component', () => {
   test('renders correctly', () => {
