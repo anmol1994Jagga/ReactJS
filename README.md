@@ -26,10 +26,10 @@ And test covergae is seen.
 ### User is by default redirected to home page
 It contains three links 
 ![alt text](image.png)
-Each link contains answer to the following questions
-Link 1 --> Wellbeing Checkin
+### Each link contains answer to the following questions
+## Link 1 --> Wellbeing Checkin
 ![alt text](image-1.png) 
-Link 2 --> Date TIme Picker
+## Link 2 --> Date TIme Picker
 ![alt text](image-2.png) 
-Link 3 --> Architecture Proposal
+## Link 3 --> Architecture Proposal
 Downloads the architecture proposal link  
